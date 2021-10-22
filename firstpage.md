@@ -3,7 +3,7 @@
 ![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Torrance_High_School.jfif)
 #### Torrance High School
 # High School (Macon High School)
-#### 
+#### High School in was a lot different in Torrance. The student there are so nice but when they're not in school they're like a different person. The school system is exactly the same as Torrance high but the people are completely different. In Torrance I can actually tell the type of person that person is going to be but in Macon I can't do that. Some of the people that I believe to be the nicest I ever met turn out to be something else. The teachers there are great though, they're way better than Torrance teachers. My science teacher and my senior math teacher are some of the best people I ever met. I don't know if they're different too when they're not at work but I hope not. That town is weird.
 ![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Macon_High_School.jfif)
 #### [Home](https://github.com/Visal-So/Midterm-Project/blob/main/README.md)
 #### [Macon, Missouri](https://github.com/Visal-So/Midterm-Project/blob/main/secondpage.md)
