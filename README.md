@@ -3,6 +3,6 @@
 
 #### [High School](https://github.com/Visal-So/Midterm-Project/blob/main/firstpage.md)
 #### [Macon, Missouri](https://github.com/Visal-So/Midterm-Project/blob/main/secondpage.md)
-#### [Travel]
+#### [Travel](https://github.com/Visal-So/Midterm-Project/blob/main/thirdpage.md)
 #### [Sports]
 #### [College]
