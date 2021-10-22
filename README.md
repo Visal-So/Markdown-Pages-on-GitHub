@@ -1,4 +1,4 @@
-# MIDTERM-PROJECT
-### Hi my name is Visal So. I was born in Cambodia, Phnom Penh. I love to travel and here's are some of the places I been to.
+# My Expirience in America
+### Hi my name is Visal So. I was born in Cambodia, Phnom Penh and I move to America about six years ago. At the time I lived in Torrance, California.
 
-### https://github.com/Visal-So/Midterm-Project/blob/main/firstpage.md
+### [My expirience in high school](https://github.com/Visal-So/Midterm-Project/blob/main/firstpage.md)
