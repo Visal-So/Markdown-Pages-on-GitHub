@@ -6,7 +6,8 @@
 #### Mount Rushmore
 ![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Statue_Liberty.jpg)
 #### Statue of Liberty
-![](
+![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Grand_Canyon.jpg)
+#### Grand Canyon
 #### [Home](https://github.com/Visal-So/Midterm-Project/blob/main/README.md)
 #### [High School](https://github.com/Visal-So/Midterm-Project/blob/main/firstpage.md)
 #### [Macon](https://github.com/Visal-So/Midterm-Project/blob/main/secondpage.md)
