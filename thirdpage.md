@@ -4,6 +4,8 @@
 #### I love traveling, I think I been around 70% of the United State. I went to Mainz and eat lobster there, their lobsters are some the best lobsters I ever eaten. I went to Las Vegas and it was so beautiful at night. It look ugly during day time though. I went to Grand Canyon, Galveston beach, New york City to see the statue of liberty, etc. The only place that I want to see but haven't have the chance to do so is _Mount Rushmore_.
 ![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Mount_Rushmore.jfif)
 #### Mount Rushmore
+![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Statue_Liberty.jpg)
+#### Statue of Liberty
 ![](
 #### [Home](https://github.com/Visal-So/Midterm-Project/blob/main/README.md)
 #### [High School](https://github.com/Visal-So/Midterm-Project/blob/main/firstpage.md)
