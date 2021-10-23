@@ -10,4 +10,5 @@
 ![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/WIN_20210929_15_53_07_Pro.jpg)
 # Visal So
 
-![](
+![](https://github.com/Visal-So/Midterm-Project/blob/main/Images/Tyrone_Hicks.jpg)
+# This is one of my friend, Tyrone Hicks.
